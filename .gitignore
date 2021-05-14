@@ -28,8 +28,4 @@ hs_err_pid*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-<<<<<<< HEAD
 *.code-workspace
-=======
-*.code-workspace
->>>>>>> 8f1dea0b6fa3d6d3fd3f13d03c472404b70cfbe0
