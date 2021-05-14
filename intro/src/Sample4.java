@@ -72,7 +72,7 @@ class RacingCar extends Car { // クラスCarを拡張したクラス。サブ�
     }
 }
 
-public class Sample4 {
+class Sample4 {
     public static void main(String[] args) {
         Car car1 = new Car(1234, 20.5);
         car1.show(); // スーパークラスCarのメソッドshowが呼び出される。

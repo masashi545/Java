@@ -23,7 +23,7 @@ class Car {
     }
 }
 
-public class Sample3 {
+class Sample3 {
     public static void main(String[] args) {
 
         // 基本型の変数の場合
